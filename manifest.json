@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-flashread",
+	"name": "Obsidian Flashread",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "Speed reading via rapidly flashing words.",
+	"author": "AlexAndHisScripts",
+	"authorUrl": "https://github.com/AlexAndHisScripts",
+	"isDesktopOnly": true
+}

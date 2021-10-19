@@ -1,0 +1,8 @@
+.displayer {
+	font-size: 64px;
+	padding: 100px;
+	min-width: 1200px;
+	min-height: 300px;
+
+	text-align: center;
+}
